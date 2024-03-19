@@ -70,5 +70,5 @@ plot_pacf(ARMA_2)
 ![image](https://github.com/Nivetham1710/TSA_EXP4/assets/94155183/daaf27b7-6430-4163-b781-25a692adbd8b)
 
 
-RESULT:
+## RESULT:
 Thus, a python program is created to fir ARMA Model successfully.
